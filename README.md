@@ -81,7 +81,7 @@ autoeda/
 ## Team
 
 Built by <a href="https://github.com/shais013">@Shais</a>
-,<a href="https://github.com/Aryan-Shakya">@Aryan</a> ,<a href="https://github.com/Atharva123z">@Arthav</a> — DY Patil International University, 2026
+,<a href="https://github.com/Aryan-Shakya">@Aryan</a> ,<a href="https://github.com/Atharva123z">@Atharva</a> — DY Patil International University, 2026
 
 ---
 
