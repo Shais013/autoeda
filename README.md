@@ -80,7 +80,8 @@ autoeda/
 
 ## Team
 
-Built by [Your Name], [Name 2], [Name 3] — DY Patil International University, 2025
+Built by ![Shais](https://github.com/shriyansh9907)
+[Your Name], [Name 2], [Name 3] — DY Patil International University, 2025
 
 ---
 
