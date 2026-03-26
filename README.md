@@ -80,7 +80,7 @@ autoeda/
 
 ## Team
 
-Built by ![Shais](https://github.com/shriyansh9907)
+Built by <a href="https://github.com/shais013">Visit My GitHub</a>
 [Your Name], [Name 2], [Name 3] — DY Patil International University, 2025
 
 ---
