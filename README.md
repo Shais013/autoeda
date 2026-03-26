@@ -1,4 +1,4 @@
-# 🔍 AutoEDA — Automated Exploratory Data Analysis
+#  🔍 AutoEDA — Automated Exploratory Data Analysis
 
 > Upload any CSV → Instantly get a full analysis report with AI-generated insights
 
