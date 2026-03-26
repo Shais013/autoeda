@@ -80,8 +80,8 @@ autoeda/
 
 ## Team
 
-Built by <a href="https://github.com/shais013">Visit My GitHub</a>
-[Your Name], [Name 2], [Name 3] — DY Patil International University, 2025
+Built by <a href="https://github.com/shais013">@Shais</a>
+,<a href="https://github.com/Aryan-Shakya">@Aryan</a> ,<a href="https://github.com/Atharva123z">@Arthav</a> — DY Patil International University, 2026
 
 ---
 
